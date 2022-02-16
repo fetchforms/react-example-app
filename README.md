@@ -43,7 +43,7 @@ Fetch Forms is a headless forms solution and form builder designed to help devel
 
 ### Questions?
 Fetch Form Twitter - [@fetchforms](https://twitter.com/fetchforms)<br>
-Website contact form - [@fetchforms](https://www.fetchforms.io/contact-us)<br>
+Website contact form - [Contact Us](https://www.fetchforms.io/contact-us)<br>
 Support Email - support@fetchforms.io
 
  
