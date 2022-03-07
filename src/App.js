@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import ManagedForm from './examples/fetchForm/ManagedForm';
-import CustomForm from './examples/customForm/Parent';
+import CustomForm from './examples/customForm/CustomFetchForm';
 import Layout from './examples/components/Layout';
 
 function App() {

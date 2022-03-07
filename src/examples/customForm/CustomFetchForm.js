@@ -13,7 +13,6 @@ import {
 import './antDesignStyles.css';
 
 const CustomFetchForm = () => {
-  // FetchFormProvider needs to wrap this component
   const [fetchForm, loading, error, doCloudSubmit] = useFetchForms(
     process.env.REACT_APP_FF_FORM_ID
   );
