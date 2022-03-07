@@ -20,7 +20,6 @@ Fetch Forms is a headless forms solution and form builder designed to help devel
 
 1. [Sign up for a free account](https://www.fetchforms.io/create-account)
 2. [Configure a form](https://www.fetchforms.io/docs/configuring-a-form)
-3. [Create an API token](https://www.fetchforms.io/account/api-details)
 
 ### Installation
 1. Clone the repo
@@ -33,7 +32,6 @@ Fetch Forms is a headless forms solution and form builder designed to help devel
    ```
 3. Add the dotenv file named `.env.local` with these params
     ```sh
-    REACT_APP_FF_TOKEN=API_TOKEN
     REACT_APP_FF_FORM_ID=FORM_ID
     ```
 4. Start the app
